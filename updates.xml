@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="40/21/05/17/04/2017">
+
+
+
+<module_group name="Water">
+
+<module codenamebase="lcs.nb.cnfgmod" distribution="lcs-nb-cnfgmod.nbm?raw=true" downloadsize="6768" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.cnfgmod" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates = 201609300101, org.netbeans.core.multiview/1 = 201609300101, org.openide.awt = 201609300101, org.openide.dialogs = 201609300101, org.openide.filesystems = 201609300101, org.openide.loaders = 201609300101, org.openide.nodes = 201609300101, org.openide.text = 201609300101, org.openide.util = 201609300101, org.openide.util.lookup = 201609300101, org.openide.util.ui = 201609300101, org.openide.windows = 201609300101" OpenIDE-Module-Name="CNFGLang" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Add support for configuration files" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="lcs.nb.insmod" distribution="lcs-nb-insmod.nbm?raw=true" downloadsize="6777" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.insmod/1" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates &gt; 1.6.1, org.netbeans.core.multiview/1 &gt; 1.43.1, org.openide.awt &gt; 7.65.1, org.openide.dialogs &gt; 7.41.1, org.openide.filesystems &gt; 9.8.1, org.openide.loaders &gt; 7.63.1, org.openide.nodes &gt; 7.42.1, org.openide.text &gt; 6.66.1, org.openide.util &gt; 9.5.1, org.openide.util.lookup &gt; 8.32.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.74.1" OpenIDE-Module-Name="INSLang" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Add support for install information files" OpenIDE-Module-Specification-Version="0.0.0"/>
+    
+</module>
+
+<module codenamebase="lcs.nb.sdbmod" distribution="lcs-nb-sdbmod.nbm?raw=true" downloadsize="6646" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.sdbmod/1" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates = 201609300101, org.netbeans.core.multiview/1 = 201609300101, org.openide.awt = 201609300101, org.openide.dialogs = 201609300101, org.openide.filesystems = 201609300101, org.openide.loaders = 201609300101, org.openide.nodes = 201609300101, org.openide.text = 201609300101, org.openide.util = 201609300101, org.openide.util.lookup = 201609300101, org.openide.util.ui = 201609300101, org.openide.windows = 201609300101" OpenIDE-Module-Name="SDBLang" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Add support for Simple Database files" OpenIDE-Module-Specification-Version="0.0.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="lcs.nb.wosutils" distribution="lcs-nb-wosutils.nbm?raw=true" downloadsize="33588" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.wosutils" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="WaterOSUtils" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Integrate LCCompiler and LCASM into netbeans" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="lcs.nb.wbmod" distribution="lcs-nb-wbmod.nbm?raw=true" downloadsize="23692" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.wbmod/1" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.8" OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates = 201609300101, org.netbeans.core.multiview/1 = 201609300101, org.netbeans.modules.csl.api/2 &gt; 2.54.1.2.1.1.8.1, org.netbeans.modules.csl.types/1 &gt; 1.0.1, org.netbeans.modules.editor.bracesmatching/0 &gt; 1.39.1.55, org.netbeans.modules.editor.fold/1 &gt; 1.45.1, org.netbeans.modules.editor.indent/2 &gt; 1.43.1, org.netbeans.modules.editor.mimelookup/1 &gt; 1.40.1, org.netbeans.modules.lexer/2 &gt; 1.63.1.1, org.netbeans.modules.lexer.nbbridge/1 &gt; 1.32.1.1, org.netbeans.modules.parsing.api/1 &gt; 9.6.1.8, org.netbeans.modules.projectapi/1 &gt; 1.66.1, org.netbeans.spi.editor.hints/0 &gt; 1.40.1.7.55, org.openide.awt = 201609300101, org.openide.dialogs = 201609300101, org.openide.filesystems = 201609300101, org.openide.loaders = 201609300101, org.openide.nodes = 201609300101, org.openide.text = 201609300101, org.openide.util = 201609300101, org.openide.util.lookup = 201609300101, org.openide.util.ui = 201609300101, org.openide.windows = 201609300101" OpenIDE-Module-Name="WBLang" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Add support for WBuild Files" OpenIDE-Module-Specification-Version="0.0.0"/>
+    
+</module>
+
+<module codenamebase="lcs.nb.wmod" distribution="lcs-nb-wmod.nbm?raw=true" downloadsize="17359" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.wmod/1" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="W language support for NetBeans IDE" OpenIDE-Module-Module-Dependencies="lcs.nb.wosutils &gt; 1.0, org.netbeans.api.templates = 201609300101, org.netbeans.core.multiview/1 = 201609300101, org.netbeans.modules.csl.api/2 = 2, org.netbeans.modules.editor/3 &gt; 1.87.1.6.3.23.55, org.netbeans.modules.editor.bracesmatching/0 &gt; 1.39.1.55, org.netbeans.modules.editor.fold/1 &gt; 1.45.1, org.netbeans.modules.editor.indent/2 &gt; 1.43.1, org.netbeans.modules.editor.mimelookup/1 &gt; 1.40.1, org.netbeans.modules.lexer/2 = 1, org.netbeans.modules.lexer.nbbridge/1 = 201609300101, org.netbeans.modules.parsing.api/1 &gt; 9.5.1.8, org.openide.awt = 201609300101, org.openide.dialogs = 201609300101, org.openide.filesystems = 201609300101, org.openide.loaders = 201609300101, org.openide.nodes = 201609300101, org.openide.text = 201609300101, org.openide.util = 201609300101, org.openide.util.lookup = 201609300101, org.openide.util.ui = 201609300101, org.openide.windows = 201609300101" OpenIDE-Module-Name="WLang" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="W language support" OpenIDE-Module-Specification-Version="0.0.0"/>
+    
+</module>
+
+<module codenamebase="lcs.nb.wpmod" distribution="lcs-nb-wpmod.nbm?raw=true" downloadsize="20744" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/04/16">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="lcs.nb.wpmod/1" OpenIDE-Module-Display-Category="Water" OpenIDE-Module-Implementation-Version="170417" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="lcs.nb.wosutils &gt; 1.0, org.netbeans.api.annotations.common/1 &gt; 1.26.1, org.netbeans.api.io &gt; 1.2.1, org.netbeans.api.templates &gt; 1.6.1, org.netbeans.modules.options.api/1 &gt; 1.44.1, org.netbeans.modules.projectapi/1 &gt; 1.65.1, org.netbeans.modules.projectuiapi/1 &gt; 1.86.1.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.openide.awt &gt; 7.65.1, org.openide.dialogs &gt; 7.41.1, org.openide.filesystems &gt; 9.8.1, org.openide.loaders &gt; 7.63.1, org.openide.nodes &gt; 7.42.1, org.openide.util &gt; 9.5.1, org.openide.util.lookup &gt; 8.32.1, org.openide.util.ui &gt; 9.4.1" OpenIDE-Module-Name="WProject" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Add support for Water Modules" OpenIDE-Module-Specification-Version="0.0.0"/>
+    
+</module>
+
+</module_group>
+
+<license name="AD9FBBC9" url="licenses/AD9FBBC9.license?raw=true"/>
+</module_updates>
+
